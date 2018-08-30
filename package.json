@@ -1,0 +1,24 @@
+{
+  "name": "za1gobot",
+  "version": "1.0.0",
+  "description": "zalgo converter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluffyanvil/za1gobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluffyanvil/za1gobot/issues"
+  },
+  "homepage": "https://github.com/fluffyanvil/za1gobot#readme",
+  "dependencies": {
+    "telebot": "^1.2.6",
+    "to-zalgo": "^1.0.1"
+  }
+}
